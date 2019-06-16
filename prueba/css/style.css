@@ -1,0 +1,43 @@
+#btn-agregar{
+    background-color: green;
+    border-radius: 2rem;
+    color: white;
+    font-size: 18px;
+}
+
+#btn-imprimir{
+    background-color: #ff0000;
+    border-radius: 2rem;
+    color: white;
+    font-size: 18px;
+}
+
+#miTabla{
+    font-size: 20px;
+    border-collapse: collapse;
+    border-style: solid;
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#miTabla2{
+    font-size: 20px;
+    border-collapse: collapse;
+    border-style: solid;
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-busqueda{
+    display: inline-block;
+}
+
+.div-original{
+    display: inline-block;
+}
